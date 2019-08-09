@@ -67,8 +67,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-
+    //1 : Get : https://server2301.herokuapp.com/word
+    //2 : Post : https://server2301.herokuapp.com/word
+//        +Gửi lên 2 giá trị có keyword "en" , "vn"
+    //3 : Put : https://server2301.herokuapp.com/word/id gia tri
+//            +Gửi lên 1 giá trị có keyword "isMemorized"
+    //4 : Delete : https://server2301.herokuapp.com/word/id gia tri
 
 
     }
